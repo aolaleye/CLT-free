@@ -9,12 +9,14 @@ _Cam Burrows, Abby Olaleye, Tim Hayes_
 * Given the choice and at equal cost, most people prefer to spend their money within their community. With our app, a user can either post a profile that contains his or her skillset, requested rate and contact information, or a user can post a job which will allow freelancers to respond to the job posting.
 
 #### Technical Components: 
-* __Our application utilizes...__
+
+* __Our application utilizes:__
     * a Node and Express Web Server
     * PASSPORT for account creation and user authentication
     * SASS as a CSS preprocessor
     * an MVC Paradigm folder structure
-* __Our application also...__
+
+* __Our application also:__
     * is backed by a MySQL Database with a Sequelize ORM
     * contains both GET and POST routes for retrieving and adding new data
     * is deployed through Heroku
