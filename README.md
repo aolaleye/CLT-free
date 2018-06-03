@@ -21,7 +21,7 @@ _Cam Burrows, Abby Olaleye, Tim Hayes_
     * contains both GET and POST routes for retrieving and adding new data
     * is deployed through Heroku
 
-#### > __Try it Out:__
+#### > __Click Below to Try it Out:__
 [![clt-free](public/img/cltfree.png)](https://clt-free.herokuapp.com/)
 
 <!-- 
