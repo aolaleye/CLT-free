@@ -1,6 +1,6 @@
 # CLTfree
 
-CLTfree is an app for freelancers and those seeking freelancers for work in and around Charlotte, NC. __Don't outsource your project to a different country or state, hire your neighbor instead.__
+CLTfree is an app for freelancers and those seeking freelancers for work in and around Charlotte, NC. Don't outsource your project to a different country or state, hire your neighbor instead.
 
 ### Contributors
 _Cam Burrows, Abby Olaleye, Tim Hayes_
